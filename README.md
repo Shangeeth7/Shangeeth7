@@ -1,7 +1,4 @@
 <img  src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp">
-<img  align="center" alt="coding" height="450"   src="https://wallpapercave.com/wp/wp8903890.jpg">
-
-
 
 <h1 align="center">Hi 👋, I'm Shangeeth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
