@@ -72,23 +72,7 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="80">
     </td>
- <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" width="130">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
-    </td>
-   <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
-    </td>
-   <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="60">
-    </td>
-  </tr>
+ 
 </tr>
 </table>
 
