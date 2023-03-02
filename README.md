@@ -1,4 +1,4 @@
-<img align="right" alt="coding" height="200" width="400" src="https://wallpaperaccess.com/full/2853792.jpg">
+<img  alt="coding" height="200" width="400" src="https://wallpaperaccess.com/full/2853792.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Shangeeth</h1>
