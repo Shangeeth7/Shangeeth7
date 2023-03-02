@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=4dabf7&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+👋+I'm+Shangeeth+;Full-StackWeb+Developer;" width="100%"> 
+<img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=4dabf7&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+👋+I'm+Shangeeth+;Full-Stack_Web+Developer;" width="100%"> 
 </p>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at my <a target="_blank" rel="noreferrer" href="https://fastidious-klepon-5de218.netlify.app"> Portfolio </a>
 
-- ⚡ Fun fact **I am funny😅**
+- 📧 E-mail : shanshangeeth@gmail.com
+
+- 📝 <a target="_blank" rel="noreferrer" href="https://drive.google.com/drive/u/0/folders/13PK-j5lO4XbVYbs8puaZkKNzhUzruZbB" >Resume 
 
 <br /> <br />
 
