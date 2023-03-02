@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am funny😅**
 
+<br /> <br />
+
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p  align='center'>
@@ -18,8 +20,10 @@
 <a href="https://www.instagram.com/call_me_rowdy_111/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="50"></a> &nbsp
 <a href="https://www.linkedin.com/in/raghul-p-50478323b"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
 </p>
+<br /> <br />
 
 <h2 align='center'><i>Languages and Tools</i></h2>
+<br />
 
 <table width="100">
 <tr>
