@@ -1,4 +1,6 @@
+<img align="right" alt="coding" height="40">
 ![logo](https://wallpaperaccess.com/full/2853792.jpg)
+</img>
 
 <h1 align="center">Hi 👋, I'm Shangeeth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
