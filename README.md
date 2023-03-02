@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at my<a target="_blank" href="https://fastidious-klepon-5de218.netlify.app">  Portfolio </a>
+- 👨‍💻 All of my projects are available at my <a target="_blank" rel="noreferrer" href="https://fastidious-klepon-5de218.netlify.app"> Portfolio </a>
 
 - ⚡ Fun fact **I am funny😅**
 
