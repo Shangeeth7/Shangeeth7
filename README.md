@@ -19,6 +19,9 @@
 <a href="https://twitter.com/Raghul195308221"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a> &nbsp
 <a href="https://www.instagram.com/call_me_rowdy_111/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="50"></a> &nbsp
 <a href="https://www.linkedin.com/in/raghul-p-50478323b"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
+<a href="https://www.linkedin.com/in/raghul-p-50478323b"><img src="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo" width="50"></a>
+    
+
 </p>
 <br /> <br />
 
