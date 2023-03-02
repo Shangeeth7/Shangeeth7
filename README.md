@@ -1,6 +1,6 @@
-<img  src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp">
-
-<h1 align="center">Hi 👋, I'm Shangeeth</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=4dabf7&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+👋+I'm+Shangeeth+;Full-StackWeb+Developer;" width="100%"> 
+</p>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
