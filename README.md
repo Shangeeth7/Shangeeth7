@@ -60,7 +60,7 @@
          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="120">
     </td>
 </tr>
 <tr>
