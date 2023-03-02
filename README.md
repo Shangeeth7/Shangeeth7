@@ -11,11 +11,10 @@
 
 - ⚡ Fun fact **I am funny😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<p  align='center'>
+<a href="https://twitter.com/Raghul195308221"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a> &nbsp
+<a href="https://www.instagram.com/call_me_rowdy_111/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="50"></a> &nbsp
+<a href="https://www.linkedin.com/in/raghul-p-50478323b"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
